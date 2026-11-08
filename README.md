@@ -30,3 +30,7 @@ Ask your AI coding assistant to use **AWS Penetration Testing** when handling a 
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+
+## Additional Resources
+
+Added `references/advanced-aws-pentesting.md`, a defensive, authorized assessment guide for IAM, serverless, secrets, containers, data services, networking, evidence, and stop conditions.
